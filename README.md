@@ -19,3 +19,4 @@ Features
 - **Admission Status**  
   Flag and analyze patients based on admission status.
 
+<img width="1077" height="513" alt="Image Hospital Dashboard" src="https://github.com/user-attachments/assets/ac3e2f7b-f34b-4eed-824c-af2b4faabe23" />
